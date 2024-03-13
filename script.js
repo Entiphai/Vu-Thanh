@@ -140,7 +140,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 7:
            
-            document.getElementById('noBtn').innerHTML = 'Thật sự anhh rất thích emm mà';
+            document.getElementById('noBtn').innerHTML = 'Thật sự anhh thương thương bée mà';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
